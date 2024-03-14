@@ -1,0 +1,73 @@
+{
+  "allVideos": [
+    {
+      "caption": "Bramayugam",
+      "url": " https://www.youtube.com/embed/H66pS8KSE24?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+      "id": 9
+    },
+    {
+      "caption": "Premalu",
+      "url": " https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://timesofindia.indiatimes.com/photo/msid-107379774,imgsize-153630.cms",
+      "id": 10
+    },
+    {
+      "caption": "Manjummal Boys Song (Kuthanthram)",
+      "url": " https://www.youtube.com/embed/9AizchSQURA?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "image": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "name": "Movie",
+      "video": [],
+      "id": 1
+    },
+    {
+      "name": "Music",
+      "video": [
+        {
+          "caption": "Manjummal Boys Song (Kuthanthram)",
+          "url": " https://www.youtube.com/embed/9AizchSQURA?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+          "id": 11
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Trailer",
+      "video": [
+        {
+          "caption": "Premalu",
+          "url": " https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://timesofindia.indiatimes.com/photo/msid-107379774,imgsize-153630.cms",
+          "id": 10
+        },
+        {
+          "caption": "Bramayugam",
+          "url": " https://www.youtube.com/embed/H66pS8KSE24?si=dl2FrwfoDZdPb_OB&autoplay=1",
+          "image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+          "id": 9
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Premalu",
+      "url": " https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "datetime": "2024-03-12T06:32:06.462Z",
+      "id": 1
+    },
+    {
+      "caption": "Premalu",
+      "url": " https://www.youtube.com/embed/rR_2ti4l3nM?si=dl2FrwfoDZdPb_OB&autoplay=1",
+      "datetime": "2024-03-12T06:35:34.170Z",
+      "id": 2
+    }
+  ]
+}

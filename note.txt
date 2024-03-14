@@ -1,0 +1,4 @@
+JSON-SERVER
+
+-initiate package.JSON
+    npm init -y
